@@ -15,7 +15,7 @@
 			<!-- start: Container -->
 			<div class="container">
 
-				<h1><i class="ico-suitcase ico-white"></i>Ofertas de hoteles recomendados en Granada</h1>
+				<h1><i class="ico-suitcase ico-white"></i>Ofertas de hoteles recomendados en París</h1>
 
 			</div>
 			<!-- end: Container  -->

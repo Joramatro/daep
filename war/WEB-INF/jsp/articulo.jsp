@@ -28,8 +28,8 @@
 	
 	<!--start: Wrapper -->
 	<div itemscope itemtype="http://schema.org/Article" id="wrapper">
-		<link itemprop="url" href="http://www.reservarhotelgranada.com/${publicacion.url}" />
-		<meta itemprop="publisher" content="Reservar Hotel Granada" />		
+		<link itemprop="url" href="http://www.dondealojarseenparis.com/${publicacion.url}" />
+		<meta itemprop="publisher" content="Dónde Alojarse En París" />		
 		<!--start: Container -->
     	<div class="container">
     				<% 
@@ -117,7 +117,7 @@
 				</div>				
 				<div class="span10">				
 					<c:if test="${publicacion.disponible ne 'N'}">
-						<h2><a href="/ofertas" onClick="ga('send', 'event', 'Ofertas', '${publicacion.url}', 'Boton Oferta Hoteles');" class="button color launch" target="_blank">Ver hoteles recomendados en Granada</a></h2>				
+						<h2><a href="/ofertas" onClick="ga('send', 'event', 'Ofertas', '${publicacion.url}', 'Boton Oferta Hoteles');" class="button color launch" target="_blank">Ver hoteles recomendados en París</a></h2>				
 					</c:if>
 					<div class="g-plusone"></div> 														
 					<br><br>
@@ -130,7 +130,7 @@
 					<div class="g-plusone"></div>
 					<br><br>
 					<c:if test="${publicacion.disponible ne 'N'}">
-						<h2><a href="/ofertas" onClick="ga('send', 'event', 'Ofertas', '${publicacion.url}', 'Boton Oferta Hoteles');" class="button color launch">Ver hoteles recomendados en Granada</a></h2>
+						<h2><a href="/ofertas" onClick="ga('send', 'event', 'Ofertas', '${publicacion.url}', 'Boton Oferta Hoteles');" class="button color launch">Ver hoteles recomendados en París</a></h2>
 					</c:if>
 					<br>											
 				</div>	

@@ -50,11 +50,11 @@
       		<!-- start: Hero Unit - Main hero unit for a primary marketing message or call to action -->
       		<div class="hero-unit">
 				<h3>
-					Si tienes intención de reservar hotel en Granada, ya sea en el centro histórico de la capital como en las afueras, en nuestra web podrás encontrar los mejores hoteles más económicos en función de tus intereses y posibilidades.<br>
-					Aquí te ayudaremos a buscar y encontrar el hotel ideal que estás buscando en Granada a través de nuestros artículos, de manera que puedas disfrutar de los mejores lugares y rincones de la capital granadina.<br>
-					Te mostramos además las mejores ofertas de hoteles donde poder hospedarte para tu próximo viaje a la ciudad andaluza y reservar tu habitación con la máxima seguridad y los mejores profesionales del sector hotelero.
+					Si vas a viajar a París y te preguntas dónde alojarse en la capital francesa, en nuestra web podrás encontrar los mejores hoteles más encantadores y económicos en función de tus intereses y expectativas.<br>
+					Te queremos ayudar a encontrar y reservar el hotel ideal que buscas en París con nuestros artículos, de forma que puedas disfrutar de los mejores sitios y rincones de la ciudad parísina.<br>
+					Te mostramos además las mejores ofertas de hoteles donde poder hospedarte y alojarte en tu próximo viaje a París y así poder reservar tu habitación con los mejores profesionales del sector hotelero.
 				</h3>
-        		<p><br><a class="btn btn-primary btn-large" title="Oferta Hoteles Granada" href="/ofertas">ver Hoteles Recomendados en Granada</a> &nbsp;&nbsp;<a title="Blog" class="btn btn-primary btn-large" href="/blog">ver Blog</a></p>
+        		<p><br><a class="btn btn-primary btn-large" title="Oferta Hoteles París" href="/ofertas">ver Hoteles Recomendados en París</a> &nbsp;&nbsp;<a title="Blog" class="btn btn-primary btn-large" href="/blog">ver Blog</a></p>
       		</div>
 			<!-- end: Hero Unit -->
 			<div id="googleRecIndex1" class="iframe_wrap">			
@@ -81,8 +81,8 @@
 						<div class="icons-box-vert">
 							<i class="ico-ok ico-white circle-color-full"></i>
 							<div class="icons-box-vert-info">
-								<h3>Reservar Hotel en Granada</h3>
-								<p>Reserva un hotel encantador y económico de Granada en su centro histórico para poder visitar fácilmente los lugares más interesantes de la ciudad.</p>
+								<h3>Hospedarse en París</h3>
+								<p>Busca un hotel encantador y económico en París y visita fácilmente los lugares más interesantes de la ciudad.</p>
 							</div>
 							<div class="clear"></div>
 						</div>
@@ -94,8 +94,8 @@
 						<div class="icons-box-vert">
 							<i class="ico-ok ico-white circle-color-full"></i>
 							<div class="icons-box-vert-info">
-								<h3>Qué ver en Granada</h3>
-								<p>Encuentra artículos y opiniones personales para buscar hotel en Granada y descubre con nosotros los sitios y actividades que no te puedes perder durante tu visita a la capital granadina.</p>
+								<h3>Buscar hotel en París</h3>
+								<p>Encuentra y reserva el mejor hotel para tu estancia según tus necesidades, presupuesto y la zona donde quieras alojarte para hacer así de tu viaje una experiencia única e inolvidable.</p>
 							</div>
 							<div class="clear"></div>
 						</div>
@@ -107,8 +107,9 @@
 						<div class="icons-box-vert">
 							<i class="ico-ok ico-white circle-color-full"></i>
 							<div class="icons-box-vert-info">
-								<h3>La mejor oferta de hoteles en Granada</h3>
-								<p>Encuentra el mejor hotel para tu estancia según tus necesidades, presupuesto y la zona donde quieras alojarte para hacer así de tu viaje una experiencia inolvidable.</p>
+								<h3>Qué ver en la capital parisina</h3>
+								<p>Lee nuestros artículos y opiniones personales para encontrar tu hotel en París y descubre los lugares y las atracciones que no te puedes perder durante tu visita.</p>
+								
 							</div>
 							<div class="clear"></div>
 						</div>

@@ -10,12 +10,12 @@
 <div id="content">
 
   <div class="logo">
-		<h1><a title="Reservar Hotel Granada" href="www.reservarhotelgranada.com"><span class="red">Reservar Hotel Granada</span></a></h1>
-		<input type="image" src="/img/logo.png" width="95px" height="40px" class="button-sel" alt="www.reservarhotelgranada.com" title="www.reservarhotelgranada.com"/>
+		<h1><a title="Dónde Alojarse en París" href="www.dondealojarseenparis.com"><span class="red">Dónde Alojarse En París</span></a></h1>
+		<input type="image" src="/img/logo.png" width="95px" height="40px" class="button-sel" alt="www.dondealojarseenparis.com" title="www.dondealojarseenparis.com"/>
   </div>            
 
 <div class="subheader" style="margin-left:20px">
-    <h2>Log In</h2> para editar en Reservar Hotel Granada
+    <h2>Log In</h2> para editar en Dónde Alojarse En París
 </div>
 <div id="mainbar">
 

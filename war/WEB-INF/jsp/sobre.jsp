@@ -42,13 +42,13 @@
 					<div id="about">
 						<div class="title"><h3>Acerca de nosotros</h3></div>
 						<p>
-							Somos un equipo de personas con pasión por viajar, la historia y en especial por la ciudad de Granada, que además quiere ofrecerte la mejor información y los mejores artículos para buscar hoteles y destinos a visitar en la ciudad andaluza, pues está repleta de rincones maravillosos que visitar.
+							Somos un equipo de personas con pasión por viajar, conocer mundo, la historia y en especial por la ciudad de París, que además quiere ofrecerte la mejor información y los mejores artículos para que sepas dónde alojarte en la capital francesa y buscar hoteles y destinos para ver en la ciudad, pues está repleta de lugares maravillosos que visitar.
 						</p>
 						<p>
-							Además de nuestros artículos y opiniones, te ofrecemos información detallada sobre los mejores hoteles que puedes reservar en Granada. Estamos aquí para ayudarte en todo lo posible y ofrecerte la mejor información al respecto que puedas encontrar en Internet.
+							Además de nuestros artículos y opiniones, te mostramos información detallada sobre los mejores hoteles que puedes reservar en la capital parisina. Estamos aquí para ayudarte en todo lo que podamos y ofrecerte así la mejor información al respecto que puedas encontrar en la web.
 						</p>
 						<p>
-							Por favor, contacta con nosotros para consultarnos cualquier duda que tengas ó darnos tu opinión sobre nuestra web, puedes usar también la sección de comentarios de cada artículo para preguntar o aportar más información o incluso darle una puntuación.
+							Por favor, contacta con nosotros para consultarnos cualquier duda o pregunta que tengas o darnos tu opinión sobre nuestra web, puedes usar también la sección de comentarios de cada artículo para preguntarnos o aportar más información y darle una puntuación.
 						</p>
 					</div>	
 					<!-- end: About Us -->
@@ -57,16 +57,16 @@
 					<div id="history">
 						<div class="title"><h3>Historia</h3></div>
 						<p>
-							<span class="dropcap">1</span>Somos un grupo de personas cuya profesión y pasión es la tecnología y el turismo, por eso hemos decidido publicar a través de esta y otras webs nuestros conocimientos con objeto de ayudar a más gente.
+							<span class="dropcap">1</span>Somos un grupo de personas cuya profesión y pasión es viajar por el mundo, por eso hemos decidido publicar a través de ésta y otras webs nuestros conocimientos con objeto de conectar con más gente.
 						</p>
 						<p>
-							<span class="dropcap color">2</span>Desde hace ya unos años, el turismo y los viajes de ocio se han convertido en algo imprescindible para nuestro tiempo de ocio y conocer nuevos lugares y ciudades como Granada es fundamental.
+							<span class="dropcap color">2</span>Desde hace ya unos años, el turismo y los viajes de ocio se han convertido en algo fundamental en nuestro tiempo de ocio, por lo que pensamos que conocer nuevos sitios y ciudades como París es algo genial para cualquier persona.
 						</p>
 						<p>
-							<span class="dropcap dark">3</span>Nosotros venimos de una formación relacionada con la tecnología y somos apasionados por los viajes y el turismo, por lo que hemos decidido reunir aquí todos nuestros conocimientos para intentar crear la mejor web en español sobre viajes y reservas de hoteles en Granada. Nuestro objetivo es ser honestos y aportar valor a nuestros lectores. 
+							<span class="dropcap dark">3</span>Nosotros tenemos una formación relacionada con la tecnología y somos apasionados por los viajes y el turismo, por lo que hemos decidido plasmar aquí todos nuestros conocimientos e intentar así crear la mejor web en español sobre dónde encontrar alojamiento en París. Nuestro objetivo es ser siempre honestos y aportar todo el valor que podamos. 
 						</p>
 						<p>
-							Por fin hemos hemos lanzado nuestra propia empresa, dónde intentamos ofreceros la mejor información y las mejores opiniones sobre lugares que visitar en Granada y los mejores a hoteles para reservar. Estamos aquí para ayudarte, por eso <a title="Contacto" href="/contacto">contacta</a> con nosotros cuando así lo requieras.
+							Por fin hemos lanzado nuestra propia web, donde intentamos ofreceros la mejor información y los mejores artículos sobre alojamientos y lugares que ver en París. Estamos aquí para informarte, por eso <a title="Contacto" href="/contacto">contacta</a> con nosotros cuando quieras.
 						</p>
 					</div>	
 					<!-- end: History -->				
@@ -81,19 +81,19 @@
 				       	<div class="title"><h3>Nuestras habilidades</h3></div>
 				       	<ul class="progress-bar">
 				        	<li>
-				            	<h5>Desarrollo turístico ( 95% )</h5>
+				            	<h5>Turismo ( 95% )</h5>
 				            	<div class="meter"><span style="width: 90%"></span></div><!-- Edite width here -->
 				          	</li>
 				          	<li>
-				            	<h5>Reserva de hoteles( 100% )</h5>
+				            	<h5>Buscar hoteles( 100% )</h5>
 				            	<div class="meter"><span style="width: 100%"></span></div><!-- Edite width here -->
 				          	</li>
 				          	<li>
-				            	<h5>Posicionamiento web ( 90% )</h5>
+				            	<h5>Gestión de contenidos ( 95% )</h5>
 				            	<div class="meter"><span style="width: 90%"></span></div><!-- Edite width here -->
 				          	</li>
 				          	<li>
-				            	<h5>Hostelería en Granada ( 100% )</h5>
+				            	<h5>Hostelería en París ( 100% )</h5>
 				            	<div class="meter"><span style="width: 100%"></span></div><!-- Edite width here -->
 				          	</li>
 				      	</ul>
