@@ -296,7 +296,7 @@
 	</c:otherwise>		
 	</c:choose>
 	<link rel="alternate" type="application/rss+xml" title="Dónde Alojarse En París RSS Feed" href="http://www.dondealojarseenparis.com/rssfeed" />
-	<link href="https://plus.google.com/+" rel="publisher" />
+	<link href="https://plus.google.com/+Dondealojarseenparis1" rel="publisher" />
 	<style>
 	@font-face {
 	  font-family: 'Droid Sans';

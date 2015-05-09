@@ -111,11 +111,11 @@
 					<div class="title"><h3>Síguenos!</h3></div>
 					<ul class="social-bookmarks">
 						<li class="facebook"><a target="_blank" href="https://www.facebook.com/pages/Dónde-Alojarse-En-París/472939602862714">facebook</a></li>
-						<li class="flickr"><a target="_blank" href="https://www.flickr.com/photos/dondealojarseenparis/">flickr</a></li>
-						<li class="googleplus"><a target="_blank" href="https://plus.google.com/">googleplus</a></li>
-						<li class="twitter"><a target="_blank" href="https://twitter.com/">twitter</a></li>
-						<li class="yelp"><a target="_blank" href="http://www.yelp.es/">yelp</a></li>
-						<li class="youtube"><a target="_blank" href="https://www.youtube.com/">youtube</a></li>
+						<li class="flickr"><a target="_blank" href="https://www.flickr.com/photos/dondealojarseenparis">flickr</a></li>
+						<li class="googleplus"><a target="_blank" href="https://plus.google.com/+Dondealojarseenparis1">googleplus</a></li>
+						<li class="twitter"><a target="_blank" href="https://twitter.com/DAlojarseParis">twitter</a></li>
+						<li class="yelp"><a target="_blank" href="http://dalojarseparis.yelp.es">yelp</a></li>
+						<li class="youtube"><a target="_blank" href="http://www.youtube.com/c/Dondealojarseenparis1">youtube</a></li>
 					</ul>
 				</div>
 				<!-- end: Social Sites -->							

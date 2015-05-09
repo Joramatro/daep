@@ -100,10 +100,10 @@
 								<div class="social-info-wrap">
 									<div class="social-info">
 										<div class="social-info-front social-twitter">
-											<a target="_blank" href="https://twitter.com/"></a>
+											<a target="_blank" href="https://twitter.com/DAlojarseParis"></a>
 										</div>
 										<div class="social-info-back social-twitter-hover">
-											<a target="_blank" href="https://twitter.com/"></a>
+											<a target="_blank" href="https://twitter.com/DAlojarseParis"></a>
 										</div>	
 									</div>
 								</div>
@@ -128,10 +128,10 @@
 								<div class="social-info-wrap">
 									<div class="social-info">
 										<div class="social-info-front social-youtube">
-											<a target="_blank" href="https://www.youtube.com/"></a>
+											<a target="_blank" href="http://www.youtube.com/c/Dondealojarseenparis1"></a>
 										</div>
 										<div class="social-info-back social-youtube-hover">
-											<a target="_blank" href="https://www.youtube.com/"></a>
+											<a target="_blank" href="http://www.youtube.com/c/Dondealojarseenparis1"></a>
 										</div>	
 									</div>
 								</div>
@@ -143,10 +143,10 @@
 								<div class="social-info-wrap">
 									<div class="social-info">
 										<div class="social-info-front social-flickr">
-											<a target="_blank" href="https://www.flickr.com/"></a>
+											<a target="_blank" href="https://www.flickr.com/photos/dondealojarseenparis"></a>
 										</div>
 										<div class="social-info-back social-flickr-hover">
-											<a target="_blank" href="https://www.flickr.com/"></a>
+											<a target="_blank" href="https://www.flickr.com/photos/dondealojarseenparis"></a>
 										</div>	
 									</div>
 								</div>
@@ -158,12 +158,12 @@
 					<!-- start: Newsletter -->
 					
 					<h3>Suscríbete!</h3>
-					<form id="newsletter" action="" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">	
-						<p>Por favor, déjanos tu email para recibir las mejores ofertas para alojarte y buscar hotel en París.</p>
+					<form id="newsletter" action="//dondealojarseenparis.us10.list-manage.com/subscribe/post?u=983686414c5d9de34f75ae80f&amp;id=38dcb606d3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">	
+						<p>Por favor, déjanos tu email para recibir nuestras novedades y las mejores ofertas y actividades durante tu estancia en París.</p>
 						<label for="newsletter_input">@:</label>
 						<input style="border: 1px solid #29a9df" type="text" name="EMAIL" id="mce-EMAIL" placeholder="Introduce tu email">
 						<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    					<div style="position: absolute; left: -5000px;"><input type="text" name="b_75e517166c4d44713341c58a4_9eae75f46b" tabindex="-1" value=""></div>
+    					<div style="position: absolute; left: -5000px;"><input type="text" name="b_983686414c5d9de34f75ae80f_38dcb606d3" tabindex="-1" value=""></div>
 						<input type="submit" value="Suscribirme" name="Suscribirme" id="mc-embedded-subscribe">							
 					</form>
 					<!-- end: Newsletter -->
@@ -189,7 +189,7 @@
 			
 				<p>
 				<a style="margin-right: 35px;" href="http://www.dondealojarseenparis.com/rssfeed" accesskey="r"><img src="/img/rss.gif" alt="RSS"/>RSS</a>
-				&copy; 2015, <a target="_blank" href="https://plus.google.com/" rel="publisher"><span id="_publisher" itemscope itemtype="http://schema.org/Organization">
+				&copy; 2015, <a target="_blank" href="https://plus.google.com/+Dondealojarseenparis1" rel="publisher"><span id="_publisher" itemscope itemtype="http://schema.org/Organization">
 <span itemprop="name">Dónde Alojarse En París</span></span></a><i style="margin-top: -18px;" class="ico-color ico-sun"></i>
 				<a style="margin-left: 19px;" href="/politica-de-privacidad">Política de privacidad</a>					
 				</p>
