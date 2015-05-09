@@ -115,7 +115,7 @@
 	</c:when>
 	
 	<c:when test="${fn:contains(pageContext.request.requestURI, 'ebooks') && not empty param.filtro}">
-		<title>Ofertas de hoteles recomendados de <%= request.getParameter("filtro").replaceAll("-", " ") %> en París | Dónde Alojarse En París</title> 
+		<title>Ofertas de hoteles recomendados de <%= request.getParameter("filtro").replaceAll("-", " ") %> | Dónde Alojarse En París</title> 
 		<meta name="description" content="Oferta de hoteles recomendados en París de <%= request.getParameter("filtro").replaceAll("-", " ") %> para que puedas reservar entre la mejor selección de establecimientos hoteleros para tu viaje a la capital parisina."/>
 		<meta name="author" content="Dónde Alojarse En París" />
 		<meta name="copyright" content="Dónde Alojarse En París" />
@@ -149,7 +149,7 @@
 	</c:when>	
 	
 	<c:when test="${fn:contains(pageContext.request.requestURI, 'ebooks')}">
-		<title>Ofertas de hoteles recomendados en París | Dónde Alojarse En París</title> 
+		<title>Ofertas de hoteles recomendados | Dónde Alojarse En París</title> 
 		<meta name="description" content="Oferta de hoteles recomendados en París para que puedas reservar entre la mejor selección de establecimientos hoteleros para tu viaje a la capital parisina."/>
 		<meta name="author" content="Dónde Alojarse En París" />
 		<meta name="copyright" content="Dónde Alojarse En París" />
@@ -183,7 +183,7 @@
 	</c:when>
 	
 	<c:when test="${fn:contains(pageContext.request.requestURI, 'blog') && not empty param.filtro}">
-		<title>Artículos de tipo <%= request.getParameter("filtro").replaceAll("-", " ") %> en París | Dónde Alojarse En París</title> 
+		<title>Artículos de tipo <%= request.getParameter("filtro").replaceAll("-", " ") %> | Dónde Alojarse En París</title> 
 		<meta name="description" content="Artículos y opinión de tipo <%= request.getParameter("filtro").replaceAll("-", " ") %> sobre los mejores lugares y hoteles donde alojarse en París, con las actividades, eventos y atracciones que no te puedes perder durante tu estancia en la capital parisina."/>
 		<meta name="author" content="Dónde Alojarse En París" />
 		<meta name="copyright" content="Dónde Alojarse En París" />
@@ -217,7 +217,7 @@
 	</c:when>	
 	
 	<c:when test="${fn:contains(pageContext.request.requestURI, 'blog')}">
-		<title>Artículos sobre lugares y hoteles donde alojarse en París | Dónde Alojarse En París</title> 
+		<title>Artículos sobre lugares y hoteles donde alojarse | Dónde Alojarse En París</title> 
 		<meta name="description" content="Artículos y opinión sobre los mejores lugares y hoteles donde alojarse en París, con las actividades, eventos y atracciones que no te puedes perder durante tu estancia en la capital parisina."/>
 		<meta name="author" content="Dónde Alojarse En París" />
 		<meta name="copyright" content="Dónde Alojarse En París" />
