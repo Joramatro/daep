@@ -28,6 +28,7 @@
 		<meta property="og:url" content="http://www.dondealojarseenparis.com/${publicacion.url}"/>
 		<meta property="og:image" content="${publicacion.lImages[0]}"/>
 		<meta property="og:site_name" content="Dónde Alojarse En París"/>
+		<meta property="og:publisher" content="https://www.facebook.com/pages/Dónde-Alojarse-En-París/472939602862714"/>
 		<!-- end: Facebook Open Graph -->
 		<!-- start: Twitter tags -->
 		<meta name="twitter:card" content="summary_large_image">
@@ -53,6 +54,7 @@
 		<meta property="og:url" content="http://www.dondealojarseenparis.com/${publicacion.url}"/>
 		<meta property="og:image" content="${publicacion.lImages[0]}"/>
 		<meta property="og:site_name" content="Dónde Alojarse En París"/>
+		<meta property="og:publisher" content="https://www.facebook.com/pages/Dónde-Alojarse-En-París/472939602862714"/>
 		<!-- end: Facebook Open Graph -->
 		<!-- start: Twitter tags -->
 		<meta name="twitter:card" content="summary_large_image">
@@ -131,6 +133,7 @@
 			</c:if>
 		</c:if>
 		<meta property="og:site_name" content="Dónde Alojarse En París"/>
+		<meta property="og:publisher" content="https://www.facebook.com/pages/Dónde-Alojarse-En-París/472939602862714"/>
 		<!-- end: Facebook Open Graph -->
 		<!-- start: Twitter tags -->
 		<meta name="twitter:card" content="summary_large_image">
@@ -165,6 +168,7 @@
 			</c:if>
 		</c:if>
 		<meta property="og:site_name" content="Dónde Alojarse En París"/>
+		<meta property="og:publisher" content="https://www.facebook.com/pages/Dónde-Alojarse-En-París/472939602862714"/>
 		<!-- end: Facebook Open Graph -->
 		<!-- start: Twitter tags -->
 		<meta name="twitter:card" content="summary_large_image">
@@ -199,6 +203,7 @@
 			</c:if>
 		</c:if>
 		<meta property="og:site_name" content="Dónde Alojarse En París"/>
+		<meta property="og:publisher" content="https://www.facebook.com/pages/Dónde-Alojarse-En-París/472939602862714"/>
 		<!-- end: Facebook Open Graph -->
 		<!-- start: Twitter tags -->
 		<meta name="twitter:card" content="summary_large_image">
@@ -233,6 +238,7 @@
 			</c:if>
 		</c:if>
 		<meta property="og:site_name" content="Dónde Alojarse En París"/>
+		<meta property="og:publisher" content="https://www.facebook.com/pages/Dónde-Alojarse-En-París/472939602862714"/>
 		<!-- end: Facebook Open Graph -->
 		<!-- start: Twitter tags -->
 		<meta name="twitter:card" content="summary_large_image">
@@ -272,13 +278,13 @@
 	</c:when>	
 	<c:otherwise>
 		<title>Dónde Alojarse En París - Información para hospedarse en París</title> 
-		<meta name="description" content="Información para saber dónde alojarse en París y buscar hotel en la capital parisina, descubriendo así las mejores zonas donde hospedarse y las actividades más interesantes a realizar durante tu viaje."/>
+		<meta name="description" content="Información para saber dónde alojarse en París y buscar hotel en la capital parisina, descubriendo así las mejores zonas donde hospedarse y las actividades más interesantes a realizar durante tu estancia."/>
 		<meta name="author" content="Dónde Alojarse En París" />
 		<meta name="copyright" content="Dónde Alojarse En París" />
 		<meta name="application-name" content="Dónde Alojarse en París" />
 		<!-- start: Facebook Open Graph -->
 		<meta property="og:title" content="Dónde Alojarse En París - Información para hospedarse en París"/>
-		<meta property="og:description" content="Información para saber dónde alojarse en París y buscar hotel en la capital parisina, descubriendo así las mejores zonas donde hospedarse y las actividades más interesantes a realizar durante tu viaje."/>
+		<meta property="og:description" content="Información para saber dónde alojarse en París y buscar hotel en la capital parisina, descubriendo así las mejores zonas donde hospedarse y las actividades más interesantes a realizar durante tu estancia."/>
 		<meta property="og:type" content="website"/>
 		<meta property="og:url" content="http://www.dondealojarseenparis.com"/>
 		<meta property="og:image" content="http://www.dondealojarseenparis.com/img/img-meta/logo_grande.jpg"/>
@@ -289,7 +295,7 @@
 		<meta name="twitter:site" content="@DAlojarseParis">
 		<meta name="twitter:creator" content="@DAlojarseParis">
 		<meta name="twitter:title" content="Dónde Alojarse En París - Información para hospedarse en París">
-		<meta name="twitter:description" content="Información para saber dónde alojarse en París y buscar hotel en la capital parisina, descubriendo así las mejores zonas donde hospedarse y las actividades más interesantes a realizar durante tu viaje.">
+		<meta name="twitter:description" content="Información para saber dónde alojarse en París y buscar hotel en la capital parisina, descubriendo así las mejores zonas donde hospedarse y las actividades más interesantes a realizar durante tu estancia.">
 		<meta name="twitter:image" content="http://www.dondealojarseenparis.com/img/img-meta/logo_grande.jpg">
 		<meta name="twitter:domain" content="dondealojarseenparis.com">
 		<!-- end: Twitter tags -->				
@@ -330,7 +336,7 @@
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-62627958-1', 'auto');
+  ga('create', 'UA-62784251-1', 'auto');
   ga('send', 'pageview');
 
 </script>

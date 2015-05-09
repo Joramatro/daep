@@ -110,7 +110,7 @@
 				<div class="span5" style="padding-bottom: 12px;">
 					<div class="title"><h3>Síguenos!</h3></div>
 					<ul class="social-bookmarks">
-						<li class="facebook"><a target="_blank" href="https://www.facebook.com/">facebook</a></li>
+						<li class="facebook"><a target="_blank" href="https://www.facebook.com/pages/Dónde-Alojarse-En-París/472939602862714">facebook</a></li>
 						<li class="flickr"><a target="_blank" href="https://www.flickr.com/photos/dondealojarseenparis/">flickr</a></li>
 						<li class="googleplus"><a target="_blank" href="https://plus.google.com/">googleplus</a></li>
 						<li class="twitter"><a target="_blank" href="https://twitter.com/">twitter</a></li>

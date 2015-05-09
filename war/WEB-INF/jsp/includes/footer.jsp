@@ -114,10 +114,10 @@
 								<div class="social-info-wrap">
 									<div class="social-info">
 										<div class="social-info-front social-facebook">
-											<a target="_blank" href="https://www.facebook.com/"></a>
+											<a target="_blank" href="https://www.facebook.com/pages/Dónde-Alojarse-En-París/472939602862714"></a>
 										</div>
 										<div class="social-info-back social-facebook-hover">
-											<a target="_blank" href="https://www.facebook.com/"></a>
+											<a target="_blank" href="https://www.facebook.com/pages/Dónde-Alojarse-En-París/472939602862714"></a>
 										</div>
 									</div>
 								</div>
@@ -158,7 +158,7 @@
 					<!-- start: Newsletter -->
 					
 					<h3>Suscríbete!</h3>
-					<form id="newsletter" action="//" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">	
+					<form id="newsletter" action="" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">	
 						<p>Por favor, déjanos tu email para recibir las mejores ofertas para alojarte y buscar hotel en París.</p>
 						<label for="newsletter_input">@:</label>
 						<input style="border: 1px solid #29a9df" type="text" name="EMAIL" id="mce-EMAIL" placeholder="Introduce tu email">
