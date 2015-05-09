@@ -254,5 +254,5 @@ $("head").append("<link rel='stylesheet' type='text/css' href='/css/rateit.css' 
 		$("#menuInicio").addClass('active');
 	}
 </script>
-<script src="//load.sumome.com/" data-sumo-site-id="247eb172345f004ba335554e9f51145df015c2a35b2019f2c56fcea861e882cf" async defer></script>
+<script src="//load.sumome.com/" data-sumo-site-id="0d7db4eab67e47ceba00ddcc55939d11c540ae21f3847a942433a11d4c9d317b" async="async"></script>
 <!-- end: Java Script -->
