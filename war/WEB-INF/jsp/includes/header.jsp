@@ -20,7 +20,6 @@
 		<meta name="description" content="${publicacion.descripcion}"/>
 		<meta name="author" content="Paloma Romero" />
 		<meta name="copyright" content="Dónde Alojarse En París" />
-		<meta name="application-name" content="Dónde Alojarse En París" />
 		<!-- start: Facebook Open Graph -->
 		<meta property="og:title" content="${publicacion.titulo} en Dónde Alojarse en París"/>
 		<meta property="og:description" content="${publicacion.descripcion}"/>
@@ -46,7 +45,6 @@
 		<meta name="description" content="${publicacion.descripcion}"/>
 		<meta name="author" content="Paloma Romero" />
 		<meta name="copyright" content="Dónde Alojarse en París" />
-		<meta name="application-name" content="Dónde Alojarse En París" />
 		<!-- start: Facebook Open Graph -->
 		<meta property="og:title" content="${publicacion.titulo} en Dónde Alojarse En París"/>
 		<meta property="og:description" content="${publicacion.descripcion}"/>
@@ -121,7 +119,6 @@
 		<meta name="description" content="Oferta de hoteles recomendados en París de <%= request.getParameter("filtro").replaceAll("-", " ") %> para que puedas reservar entre la mejor selección de establecimientos hoteleros para tu viaje a la capital parisina."/>
 		<meta name="author" content="Dónde Alojarse En París" />
 		<meta name="copyright" content="Dónde Alojarse En París" />
-		<meta name="application-name" content="Dónde Alojarse en París" />
 		<!-- start: Facebook Open Graph -->
 		<meta property="og:title" content="Oferta de hoteles recomendados de <%= request.getParameter("filtro").replaceAll("-", " ") %> en Dónde Alojarse En París"/> 
 		<meta property="og:description" content="Oferta de hoteles recomendados en París de <%= request.getParameter("filtro").replaceAll("-", " ") %> para que puedas reservar entre la mejor selección de establecimientos hoteleros para tu viaje a la capital parisina."/>		
@@ -156,7 +153,6 @@
 		<meta name="description" content="Oferta de hoteles recomendados en París para que puedas reservar entre la mejor selección de establecimientos hoteleros para tu viaje a la capital parisina."/>
 		<meta name="author" content="Dónde Alojarse En París" />
 		<meta name="copyright" content="Dónde Alojarse En París" />
-		<meta name="application-name" content="Dónde Alojarse en París" />
 		<!-- start: Facebook Open Graph -->
 		<meta property="og:title" content="Oferta de hoteles recomendados en Dónde Alojarse En París"/> 
 		<meta property="og:description" content="Oferta de hoteles recomendados en París para que puedas reservar entre la mejor selección de establecimientos hoteleros para tu viaje a la capital parisina."/>		
@@ -191,7 +187,6 @@
 		<meta name="description" content="Artículos y opinión de tipo <%= request.getParameter("filtro").replaceAll("-", " ") %> sobre los mejores lugares y hoteles donde alojarse en París, con las actividades, eventos y atracciones que no te puedes perder durante tu estancia en la capital parisina."/>
 		<meta name="author" content="Dónde Alojarse En París" />
 		<meta name="copyright" content="Dónde Alojarse En París" />
-		<meta name="application-name" content="Dónde Alojarse en París" />
 		<!-- start: Facebook Open Graph -->
 		<meta property="og:title" content="Artículos de tipo <%= request.getParameter("filtro").replaceAll("-", " ") %> en Dónde Alojarse En París"/>
 		<meta property="og:description" content="Artículos y opinión de tipo <%= request.getParameter("filtro").replaceAll("-", " ") %> sobre los mejores lugares y hoteles donde alojarse en París, con las actividades, eventos y atracciones que no te puedes perder durante tu estancia en la capital parisina."/>
@@ -226,7 +221,6 @@
 		<meta name="description" content="Artículos y opinión sobre los mejores lugares y hoteles donde alojarse en París, con las actividades, eventos y atracciones que no te puedes perder durante tu estancia en la capital parisina."/>
 		<meta name="author" content="Dónde Alojarse En París" />
 		<meta name="copyright" content="Dónde Alojarse En París" />
-		<meta name="application-name" content="Dónde Alojarse en París" />
 		<!-- start: Facebook Open Graph -->
 		<meta property="og:title" content="Artículos sobre lugares y hoteles donde alojarse en Dónde Alojarse En París"/>
 		<meta property="og:description" content="Artículos y opinión sobre los mejores lugares y hoteles donde alojarse en París, con las actividades, eventos y atracciones que no te puedes perder durante tu estancia en la capital parisina."/>
@@ -281,7 +275,6 @@
 		<meta name="description" content="Información para saber dónde alojarse en París y buscar hotel en la capital parisina, descubriendo así las mejores zonas donde hospedarse y las actividades más interesantes a realizar durante tu estancia."/>
 		<meta name="author" content="Dónde Alojarse En París" />
 		<meta name="copyright" content="Dónde Alojarse En París" />
-		<meta name="application-name" content="Dónde Alojarse en París" />
 		<!-- start: Facebook Open Graph -->
 		<meta property="og:title" content="Dónde Alojarse En París - Información para hospedarse en París"/>
 		<meta property="og:description" content="Información para saber dónde alojarse en París y buscar hotel en la capital parisina, descubriendo así las mejores zonas donde hospedarse y las actividades más interesantes a realizar durante tu estancia."/>
