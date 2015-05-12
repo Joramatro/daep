@@ -93,7 +93,7 @@
 				<div class="span6">
 				
 					<!-- start: Follow Us -->
-					<h3><img src="/img/logo_social.png" alt="Más">&nbsp;Síguenos!</h3>
+					<h3><a target="_blank" href="/rssfeed" title="RSS feed"><img src="/img/rss.png" alt="RSS feed"></a>&nbsp;Síguenos!</h3>
 					<ul class="social-grid">
 						<li>
 							<div class="social-item">				
@@ -188,9 +188,8 @@
 			<div class="span12">
 			
 				<p>
-				<a style="margin-right: 35px;" href="http://www.dondealojarseenparis.com/rssfeed" accesskey="r"><img src="/img/rss.gif" alt="RSS"/>RSS</a>
-				&copy; 2015, <a target="_blank" href="https://plus.google.com/+Dondealojarseenparis1" rel="publisher"><span id="_publisher" itemscope itemtype="http://schema.org/Organization">
-<span itemprop="name">Dónde Alojarse En París</span></span></a><i style="margin-top: -18px;" class="ico-color ico-sun"></i>
+				&copy; 2015,&nbsp;<a target="_blank" href="https://plus.google.com/+Dondealojarseenparis1" rel="publisher"><span id="_publisher" itemscope itemtype="http://schema.org/Organization">
+<span itemprop="name">Dónde Alojarse En París</span></span></a><i style="margin-top: -18px;" class="ico-color ico-brightness-increase"></i>
 				<a style="margin-left: 19px;" href="/politica-de-privacidad">Política de privacidad</a>					
 				</p>
 			</div>
