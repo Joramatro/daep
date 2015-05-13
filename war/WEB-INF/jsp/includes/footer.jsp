@@ -192,6 +192,7 @@
 <span itemprop="name">Dónde Alojarse En París</span></span></a><i style="margin-top: -18px;" class="ico-color ico-brightness-increase"></i>
 				<a style="margin-left: 19px;" href="/politica-de-privacidad">Política de privacidad</a>					
 				</p>
+				<br><br>
 			</div>
 	
 		</div>
