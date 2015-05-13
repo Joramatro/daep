@@ -519,7 +519,7 @@ Script122: <input type="text" style="width: 600px;" id="script122" name="script1
 		
 			<div class="span12">
 				<p>
-					&copy; 2014, <a href="/">Dónde Alojarse En París</a><i style="margin-top: -18px;" class="ico-color ico-sun"></i>
+					&copy; <a href="/">Dónde Alojarse En París</a><i style="margin-top: -18px;" class="ico-color ico-sun"></i>
 				</p>
 			</div>
 	

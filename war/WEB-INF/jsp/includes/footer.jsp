@@ -186,9 +186,9 @@
 		<div class="container">
 		
 			<div class="span12">
-			
+			<jsp:useBean id="date" class="java.util.Date" />
 				<p>
-				&copy; 2015,&nbsp;<a target="_blank" href="https://plus.google.com/+Dondealojarseenparis1" rel="publisher"><span id="_publisher" itemscope itemtype="http://schema.org/Organization">
+				&copy; <fmt:formatDate value="${date}" pattern="yyyy" />,&nbsp;<a target="_blank" href="https://plus.google.com/+Dondealojarseenparis1" rel="publisher"><span id="_publisher" itemscope itemtype="http://schema.org/Organization">
 <span itemprop="name">Dónde Alojarse En París</span></span></a><i style="margin-top: -18px;" class="ico-color ico-brightness-increase"></i>
 				<a style="margin-left: 19px;" href="/politica-de-privacidad">Política de privacidad</a>					
 				</p>
