@@ -65,22 +65,19 @@
 			<!-- start: -->
 			<div id="portfolio-wrapper" class="row">
 				<% pageContext.setAttribute("newLineChar", "\n"); %>
-				<div class="span4 portfolio-item Seducción Trucos">
+				<div class="span4 portfolio-item">
 				<div>
-				<div id="BuscadorHoteles" style="margin: 0 auto;">				
-					<ins class="bookingaff" data-aid="825625" data-target_aid="825622" data-prod="nsb" data-width="325" data-height="370">
-					    <!-- Anything inside will go away once widget is loaded. -->
-					    <a href="//www.booking.com?aid=825622">Booking.com</a>
-					</ins>
-					<script type="text/javascript">
-					    (function(d, sc, u) {
-					      var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
-					      s.type = 'text/javascript';
-					      s.async = true;
-					      s.src = u + '?v=' + (+new Date());
-					      p.parentNode.insertBefore(s,p);
-					      })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
-					</script>	
+				<div id="InfoHoteles" style="margin: 0 auto;">				
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<!-- interior1r -->
+					<ins class="adsbygoogle"
+					     style="display:block"
+					     data-ad-client="ca-pub-3168560600423825"
+					     data-ad-slot="9603133345"
+					     data-ad-format="rectangle"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
 				</div>	
 				</div>
 				</div>
@@ -112,12 +109,12 @@
 			<div class="clear" style="padding-top: 25px;"></div>
 			<div id="banGoogleMasVistos" style="margin-bottom: 25px;" class="iframe_wrap">
 				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-				<!-- interior1r -->
+				<!-- links -->
 				<ins class="adsbygoogle"
 				     style="display:block"
 				     data-ad-client="ca-pub-3168560600423825"
-				     data-ad-slot="9603133345"
-				     data-ad-format="auto"></ins>
+				     data-ad-slot="2940567746"
+				     data-ad-format="link"></ins>
 				<script>
 				(adsbygoogle = window.adsbygoogle || []).push({});
 				</script>

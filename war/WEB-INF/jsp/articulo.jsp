@@ -116,9 +116,19 @@
 					</ul>					
 				</div>				
 				<div class="span10">				
-					<c:if test="${publicacion.disponible ne 'N'}">
+					<%-- <c:if test="${publicacion.disponible ne 'N'}">
 						<h2><a href="/ofertas" onClick="ga('send', 'event', 'Ofertas', '${publicacion.url}', 'Boton Oferta Hoteles');" class="button color launch" target="_blank">Ver hoteles recomendados en París</a></h2>				
-					</c:if>
+					</c:if> --%>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<!-- Interior medio -->
+					<ins class="adsbygoogle"
+					     style="display:block"
+					     data-ad-client="ca-pub-3168560600423825"
+					     data-ad-slot="2809375348"
+					     data-ad-format="rectangle"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
 					<div class="g-plusone"></div> 														
 					<br><br>
 					<div id="content" itemprop="articleBody">
